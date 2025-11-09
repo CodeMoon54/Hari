@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1sI0DHIHiQ5MeDlWH524C4SQ6NVlpspGS
 """
 
-!pip install -q -U google-genai gradio pillow
-
 import os
 
 GEMINI_API_KEY = "AIzaSyAWsMXWcJD2EeCvTbmeSW7KtBus5a0MAhE"  # ← Reemplaza esto con tu clave real
